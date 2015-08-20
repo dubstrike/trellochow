@@ -10,7 +10,6 @@ Install the trellochow gem:
 
 ```
 gem install trellochow
-
 ```
 
 Then you have to add the api keys as shell environments to authenticate with trello.
