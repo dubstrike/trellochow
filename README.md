@@ -14,7 +14,7 @@ gem install trellochow
 
 Then you have to add the api keys as shell environments to authenticate with trello.
 
-1. Visit: https://trello.com/1/appKey/generate](https://trello.com/1/appKey/generate)
+1. Visit: https://trello.com/1/appKey/generate
 2. The first key in the top input field will be your `TRELLO_DEVELOPER_PUBLIC_KEY`
 3. Replace the `TRELLO_DEVELOPER_PUBLIC_KEY` in the following url:
 ```
