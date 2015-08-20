@@ -18,7 +18,7 @@ Then you have to add the api keys as shell environments to authenticate with tre
 2. The first key in the top input field will be your `TRELLO_DEVELOPER_PUBLIC_KEY`
 3. Replace the `TRELLO_DEVELOPER_PUBLIC_KEY` in the following url:
 ```
-https://trello.com/1/authorize?key=TRELLO_DEVELOPER_PUBLIC_KEY&name=trello-cli&expiration=never&response_type=token&scope=read,write
+https://trello.com/1/authorize?key=TRELLO_DEVELOPER_PUBLIC_KEY&name=trellochow&expiration=never&response_type=token&scope=read,write
 ```
 4. Open the url and authorize the application.
 5. The returned key will be your `TRELLO_MEMBER_TOKEN`
