@@ -53,9 +53,12 @@ module Trellochow
 
       card_description = %{
 # Spec
-----
 #{card_spec}
+
+----
+
 # Code
+
 ----
       }
 
