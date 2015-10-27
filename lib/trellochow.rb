@@ -52,12 +52,12 @@ module Trellochow
       card_spec = $stdin.read
 
       card_description = %{
-# Spec
+# Spec:
 #{card_spec}
 
 ----
 
-# Code
+# Code:
 
 ----
       }
