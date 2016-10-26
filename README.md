@@ -2,7 +2,7 @@
 
 Trellchow is a CLI tool to easily create trello cards based on the following template:
 
-![trello card template](https://i.imgur.com/OoVetuD.png)
+![trello card template](http://i.imgur.com/rdhEp9W.png)
 
 ## Installation
 
